@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STUDY_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.study.xsd">
+ <STUDY alias="UPSC-0134" center_name="UPSC">
+  <DESCRIPTOR>
+   <STUDY_TITLE>Arabidopsis requires PECTINACETYLESTERASE 9 for constitutive but not induced defenses against Myzus persicae aphids</STUDY_TITLE>
+   <STUDY_TYPE existing_study_type="RNASeq"/>
+   <STUDY_ABSTRACT>The plant cell wall plays an important role in constitutive and induced defenses against pathogens and herbivorous insects. Current understanding is largely based on the degree of pectin methylesterification. Little is, however, known about pectin esterification. Here, the involvement of the non-redundant PECTINACETYLESTERASE 9 (PAE9) in aphid resistance is studied in Arabidopsis. Aphids are piercing-sucking insects that invade their host via the cell wall and induce the jasmonic acid (JA) and salicylic acid pathways. On PAE9 loss-of-function mutants, aphids established phloem feeding earlier than on the wild type. Surprisingly, this did not lead to eventual differences in aphid population size. Whole-genome transcriptomic analyses revealed that pae9 mutants had a constitutive lower expression of biotic stress-related genes involved in the indole phytoalexin pathway, but that these mutants recovered within 8 h after aphid infestation. Phytohormone quantification showed that JA levels were indeed lower, but increased to wild-type level within 4 to 8 h of aphid infestation. </STUDY_ABSTRACT>
+  </DESCRIPTOR>
+ </STUDY>
+</STUDY_SET>

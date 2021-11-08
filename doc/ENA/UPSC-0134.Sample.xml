@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0134-S0001" center_name="UPSC">
+  <TITLE>Col-0_4hpi_1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 4 hours post infestation plants - biological replicate number 1 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0002" center_name="UPSC">
+  <TITLE>Col-0_4hpi_1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 4 hours post infestation plants - biological replicate number 1 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0003" center_name="UPSC">
+  <TITLE>Col-0_4hpi_2_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 4 hours post infestation plants - biological replicate number 2 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0004" center_name="UPSC">
+  <TITLE>Col-0_4hpi_2_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 4 hours post infestation plants - biological replicate number 2 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0005" center_name="UPSC">
+  <TITLE>Col-0_4hpi_3_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 4 hours post infestation plants - biological replicate number 3 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0006" center_name="UPSC">
+  <TITLE>Col-0_4hpi_3_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 4 hours post infestation plants - biological replicate number 3 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0007" center_name="UPSC">
+  <TITLE>Col-0_8hpi_1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 8 hours post infestation plants - biological replicate number 1 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0008" center_name="UPSC">
+  <TITLE>Col-0_8hpi_1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 8 hours post infestation plants - biological replicate number 1 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0009" center_name="UPSC">
+  <TITLE>Col-0_8hpi_2_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 8 hours post infestation plants - biological replicate number 2 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0010" center_name="UPSC">
+  <TITLE>Col-0_8hpi_2_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 8 hours post infestation plants - biological replicate number 2 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0011" center_name="UPSC">
+  <TITLE>Col-0_8hpi_3_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 8 hours post infestation plants - biological replicate number 3 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0012" center_name="UPSC">
+  <TITLE>Col-0_8hpi_3_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type 8 hours post infestation plants - biological replicate number 3 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0013" center_name="UPSC">
+  <TITLE>Col-0_c_1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type control plants - biological replicate number 1 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0014" center_name="UPSC">
+  <TITLE>Col-0_c_1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type control plants - biological replicate number 1 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0015" center_name="UPSC">
+  <TITLE>Col-0_c_2_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type control plants - biological replicate number 2 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0016" center_name="UPSC">
+  <TITLE>Col-0_c_2_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type control plants - biological replicate number 2 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0017" center_name="UPSC">
+  <TITLE>Col-0_c_3_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type control plants - biological replicate number 3 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0018" center_name="UPSC">
+  <TITLE>Col-0_c_3_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Col-0 wild-type control plants - biological replicate number 3 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0019" center_name="UPSC">
+  <TITLE>pae9-2_4hpi_1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 4 hours post infestation plants - biological replicate number 1 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0020" center_name="UPSC">
+  <TITLE>pae9-2_4hpi_1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 4 hours post infestation plants - biological replicate number 1 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0021" center_name="UPSC">
+  <TITLE>pae9-2_4hpi_2_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 4 hours post infestation plants - biological replicate number 2 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0022" center_name="UPSC">
+  <TITLE>pae9-2_4hpi_2_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 4 hours post infestation plants - biological replicate number 2 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0023" center_name="UPSC">
+  <TITLE>pae9-2_4hpi_3_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 4 hours post infestation plants - biological replicate number 3 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0024" center_name="UPSC">
+  <TITLE>pae9-2_4hpi_3_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 4 hours post infestation plants - biological replicate number 3 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0025" center_name="UPSC">
+  <TITLE>pae9-2_8hpi_1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 8 hours post infestation plants - biological replicate number 1 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0026" center_name="UPSC">
+  <TITLE>pae9-2_8hpi_1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 8 hours post infestation plants - biological replicate number 1 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0027" center_name="UPSC">
+  <TITLE>pae9-2_8hpi_2_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 8 hours post infestation plants - biological replicate number 2 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0028" center_name="UPSC">
+  <TITLE>pae9-2_8hpi_2_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 8 hours post infestation plants - biological replicate number 2 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0029" center_name="UPSC">
+  <TITLE>pae9-2_8hpi_3_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 8 hours post infestation plants - biological replicate number 3 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0030" center_name="UPSC">
+  <TITLE>pae9-2_8hpi_3_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant 8 hours post infestation plants - biological replicate number 3 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0031" center_name="UPSC">
+  <TITLE>pae9-2_c_1_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant control plants - biological replicate number 1 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0032" center_name="UPSC">
+  <TITLE>pae9-2_c_1_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant control plants - biological replicate number 1 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0033" center_name="UPSC">
+  <TITLE>pae9-2_c_2_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant control plants - biological replicate number 2 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0034" center_name="UPSC">
+  <TITLE>pae9-2_c_2_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant control plants - biological replicate number 2 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0035" center_name="UPSC">
+  <TITLE>pae9-2_c_3_1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant control plants - biological replicate number 3 technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0134-S0036" center_name="UPSC">
+  <TITLE>pae9-2_c_3_2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>3702</TAXON_ID>
+   <SCIENTIFIC_NAME>Arabidopsis thaliana</SCIENTIFIC_NAME>
+   <COMMON_NAME>mouse-ear cress</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>pae9-2 mutant control plants - biological replicate number 3 technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>
